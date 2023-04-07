@@ -1,0 +1,43 @@
+@media screen and (max-width: 479px) {
+    
+    .header {
+        width: 200px;
+        height: 200px;
+    }
+
+    .boxA {
+        width: 60px;
+        height: 160px;
+    
+        left: 70px;
+    }
+
+    .box1 {
+        float: none;
+        top: 10px;
+        left: 10px;
+    }
+
+    .left {
+        width: 200px;
+        height: 100px;
+        float: none;
+    }
+
+    .right {
+        width: 200px;
+        height: 180px;
+        float: none;
+    }
+
+    .box2 {
+        height: 30px;
+        top: 20px;
+        margin: 0px auto 10px 30px;
+    }
+
+    .fooder {
+        width: 200px;
+    }
+
+}
